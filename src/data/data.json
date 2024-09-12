@@ -62,7 +62,7 @@
   {
     "id": 5,
     "company": "Loop Studios",
-    "logo": "src/images/loop-studios.svg",
+    "logo": "../",
     "new": false,
     "featured": false,
     "position": "Software Engineer",
